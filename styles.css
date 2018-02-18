@@ -1,0 +1,21 @@
+#pinktext{
+  color: pink
+}
+
+h2 {
+  color: red;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+div {
+  background-color: teal;
+  width: "100%";
+  height: "100%";
+  margin: "1%";
+  font-family: minecraft, cursive, fantasy;
+  border: 5px solid red
+}
