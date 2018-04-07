@@ -72,3 +72,9 @@ footer{
     margin-left: -300px;
 }
 
+@media(max-width){
+    .carousel-caption{
+        display: none;
+    }
+}
+
