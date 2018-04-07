@@ -1,0 +1,74 @@
+.btnN {
+    color: rgb(255, 255, 255);
+}
+.btn-primary {
+  color: #fff;
+  background-color:  #044258;
+  border-color:  #001407;
+  margin-right: 20px;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #2cff3ece;
+  border-color:  #4fff23d2;
+}
+
+.navbar{
+    margin-bottom:0;
+    background-color: #08455c;
+    padding: 1% 0%;
+    font-size: 1.2em;
+    border: 0;
+}
+
+.nav-brand{
+    float: left;
+    min-height: 50px;
+    padding: 0px 15px 5px;
+}
+
+.navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:focus,
+.navbar-inverse .navbar-nav .active a:hover{
+    color: #9ebac4;
+    background-color: #06506b
+
+}
+
+#icon{
+    max-width: 200px;
+    margin: 1% auto;
+}
+.carousel-caption{
+    top: 60%;
+    transform: translateY(-50%);
+    text-transform: uppercase;
+}
+
+.ptxts{
+    background-color: rgb(131, 206, 87);
+    color: white;
+    padding: 10px;
+}
+
+p{
+    font-size: 200%;
+}
+
+footer{
+    width: 100%;
+    background-color: #08455c;
+    padding: 3%;
+    font-size: 1.2em;
+    border: 0;
+    color: #FFF;
+}
+
+.navbar-brand {
+    padding-top: 0px;
+}
+
+.navbar-text{
+    margin-left: -300px;
+}
+
